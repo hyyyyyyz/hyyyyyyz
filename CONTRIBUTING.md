@@ -1,38 +1,40 @@
-# 维护 Jason 的 GitHub 主页
+# Maintaining Jason's GitHub profile
 
-仓库根目录的 `README.md` 就是 GitHub 个人主页。修改正文和 SVG 后，在 GitHub 的分支预览里即可查看效果。主页使用 GitHub 原生 Markdown、HTML 链接和折叠面板。
+GitHub renders the root `README.md` on Jason's profile. Open the README on your branch to preview changes. The profile uses Markdown, HTML links, and native disclosure controls.
 
-## 文件放在哪里
+## Repository layout
 
-| 位置 | 内容 |
+| Path | Contents |
 | --- | --- |
-| `README.md` | 自我介绍、兴趣卡带、教育经历与贡献日历 |
-| `assets/studio.webp` | 为这个主页生成的像素工作室封面 |
-| `assets/cartridges/` | 篮球、沙盒和电竞卡带的可编辑 SVG 源文件 |
-| `assets/education/` | 教育经历卡片中的城市插画 |
-| `assets/activity/` | 3D 贡献日历的亮色和暗色主题，由 Actions 更新 |
-| `scripts/check_profile.py` | 检查 README 的本地资源引用、HTML 图片替代文本与 SVG 格式 |
-| `.github/workflows/` | 提交检查和贡献图更新 |
+| `README.md` | Introduction, interest cartridges, education, and contribution calendars |
+| `assets/studio.webp` | Pixel-art studio cover |
+| `assets/cartridges/` | Editable SVGs for basketball, sandbox games, and esports |
+| `assets/education/` | City illustrations for the education cards |
+| `assets/activity/` | Light and dark 3D calendars refreshed by GitHub Actions |
+| `scripts/check_profile.py` | Checks local README references, HTML image descriptions, and SVG markup |
+| `.github/workflows/` | Profile checks and contribution calendar updates |
 
-## 修改兴趣卡带
+## Editing a cartridge
 
-在 `README.md` 对应的表格单元格中修改卡面链接、折叠标题和内容。卡面和折叠标题是两个独立的操作入口。卡面 SVG 可以直接在浏览器中打开，配色和动画都在文件里。系统启用减少动态效果后，卡面使用静态画面。
+Find the cartridge's table cell in `README.md`. The linked cover opens an external site. The label underneath opens a disclosure panel with a description and links. Edit the SVG to change its colors or animation. The artwork stays still when a visitor requests reduced motion.
 
-从仓库根目录运行检查，使用 Python 3 标准库即可。
+Run the check from the repository root with Python 3.
 
 ```sh
 python3 scripts/check_profile.py
 ```
 
-提交前可在窄屏上点开三个标题，确认卡片内容可读。修改日历时也请在亮色和暗色主题中打开 3D 折叠面板。
+Open all three cartridges on a narrow screen to check that their text fits. For calendar changes, expand the 3D view and inspect both the dark image and the linked light version.
 
-## 贡献图怎样更新
+## Refreshing the calendars
 
-- **Contribution snake** 每 12 小时用 [Platane/snk](https://github.com/Platane/snk) 生成一次动画，发布到 `output` 分支。原有图片地址保持可用。
-- **3D contribution calendar** 每天用 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) 生成主题。工作流只暂存主页引用的两张 SVG，有变化时由 GitHub Actions 机器人提交。仓库内的版本也供本地预览。
-- 两项任务都支持在 Actions 页选择默认分支后手动运行。使用仓库自带的 `GITHUB_TOKEN`。发布蛇形图需要写入 `output`，更新 3D 日历需要写入默认分支。
-- **Check profile** 在推送和拉取请求时运行本地检查。工作流依赖固定到提交，Dependabot 每月检查版本。
+- **Contribution snake** uses Platane's action to generate the animation every 12 hours and publishes it to the existing image URL on the `output` branch. [Platane/snk](https://github.com/Platane/snk)
+- **3D contribution calendar** runs daily. The workflow stages the two SVGs used by the profile. When they change, the GitHub Actions bot commits them to the default branch. These files also work in local previews. [3D calendar generator](https://github.com/yoshi389111/github-profile-3d-contrib)
+- Run either workflow manually from the Actions tab by selecting the default branch. Both use the repository's `GITHUB_TOKEN`. The snake workflow needs write access to `output`. The 3D calendar workflow needs write access to the default branch.
+- **Check profile** runs the local check on pushes and pull requests. Workflow dependencies are pinned to commits. Dependabot checks for updates monthly.
 
-## 设计参考与许可
+## Credits and license
 
-游戏房首屏参考了 [MishManners 的主页](https://github.com/mishmanners/MishManners)，卡面入口参考了 [BrunnerLivio 的复古导航](https://github.com/BrunnerLivio/brunnerlivio)。封面使用 ImageGen 为 Jason 绘制，三张卡带在仓库中以 SVG 维护。仓库保留原有 [MIT 许可证](./LICENSE)和版权声明。
+MishManners' gaming room inspired the studio cover. BrunnerLivio's retro navigation inspired the linked cartridges. ImageGen produced the cover for Jason, and the three cartridge drawings are maintained as SVG source. [MishManners](https://github.com/mishmanners/MishManners) · [BrunnerLivio](https://github.com/BrunnerLivio/brunnerlivio)
+
+The repository retains its original copyright notice and license. [MIT license](./LICENSE)

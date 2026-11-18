@@ -1,65 +1,65 @@
 <p>
-  <img src="./assets/studio.webp" width="100%" alt="Jason Huang 的像素工作室。夕阳照进窗户，桌上有机械臂和游戏手柄，桌下放着篮球。">
+  <img src="./assets/studio.webp" width="100%" alt="Jason Huang's pixel-art studio at sunset, with a robot arm and controller on the desk and a basketball underneath.">
 </p>
 
-我叫 **Jason Huang**，学计算机，研究 **具身智能（Embodied AI）**。我感兴趣的是，机器人看到眼前的世界之后，怎样决定下一步该做什么。
+I'm **Jason Huang**. I study **embodied AI**, especially how robots use what they see to decide what to do next.
 
-### 我的兴趣卡带
+### My cartridges
 
-点卡面直达球赛、游戏或赛事官网，点下方的名字展开卡带。
+Select a cover to visit its site. Open the label underneath to see what I play or watch.
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://www.nba.com/schedule"><img width="240" src="./assets/cartridges/court.svg" alt="篮球卡带，打开 NBA 赛程"></a>
+      <a href="https://www.nba.com/schedule"><img width="240" src="./assets/cartridges/court.svg" alt="Basketball cartridge. Open the NBA schedule."></a>
       <details>
-        <summary><b>篮球与 NBA</b></summary>
-        <p>场上打球，场下看 NBA。</p>
-        <p><a href="https://www.nba.com/schedule">NBA 赛程</a></p>
+        <summary><b>Hoops</b></summary>
+        <p>I play hoops and watch the NBA.</p>
+        <p><a href="https://www.nba.com/schedule">NBA games</a></p>
       </details>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://www.minecraft.net/zh-hans"><img width="240" src="./assets/cartridges/sandbox.svg" alt="沙盒卡带，打开 Minecraft 官网"></a>
+      <a href="https://www.minecraft.net/en-us"><img width="240" src="./assets/cartridges/sandbox.svg" alt="Sandbox cartridge. Visit Minecraft."></a>
       <details>
-        <summary><b>沙盒游戏</b></summary>
-        <p>在《我的世界》搭方块，在《泰拉瑞亚》挖到地下。</p>
-        <p><a href="https://www.minecraft.net/zh-hans">Minecraft</a><br><a href="https://terraria.org/">Terraria</a></p>
+        <summary><b>Sandbox</b></summary>
+        <p>I build in Minecraft and dig for ore in Terraria.</p>
+        <p><a href="https://www.minecraft.net/en-us">Minecraft</a><br><a href="https://terraria.org/">Terraria</a></p>
       </details>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://valorantesports.com/"><img width="240" src="./assets/cartridges/arena.svg" alt="电竞卡带，打开 VALORANT 电竞官网"></a>
+      <a href="https://valorantesports.com/en-US"><img width="240" src="./assets/cartridges/arena.svg" alt="Esports cartridge. Open VALORANT Esports."></a>
       <details>
-        <summary><b>电竞</b></summary>
-        <p>瓦罗兰特和 CS。</p>
-        <p><a href="https://valorantesports.com/">VALORANT 赛事</a><br><a href="https://www.hltv.org/matches">CS 比赛日程</a></p>
+        <summary><b>Esports</b></summary>
+        <p>My games of choice are VALORANT and Counter-Strike.</p>
+        <p><a href="https://valorantesports.com/en-US">VALORANT events</a><br><a href="https://www.hltv.org/matches">CS matches</a></p>
       </details>
     </td>
   </tr>
 </table>
 
-### 教育经历
+### Education
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.xju.edu.cn/"><img src="./assets/education/urumqi.svg" width="380" alt="乌鲁木齐，访问新疆大学"></a><br>
-      <strong>新疆大学</strong><br>
-      本科 · 计算机科学与技术
+      <a href="https://english.xju.edu.cn/"><img src="./assets/education/urumqi.svg" width="380" alt="Urumqi. Visit Xinjiang University."></a><br>
+      <strong>Xinjiang University</strong><br>
+      Bachelor's in Computer Science and Technology
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.hust.edu.cn/"><img src="./assets/education/wuhan.svg" width="380" alt="武汉，访问华中科技大学"></a><br>
-      <strong>华中科技大学</strong><br>
-      硕士 · 计算机技术
+      <a href="https://english.hust.edu.cn/"><img src="./assets/education/wuhan.svg" width="380" alt="Wuhan. Visit Huazhong University of Science and Technology."></a><br>
+      <strong>Huazhong University of Science and Technology</strong><br>
+      Master's in Computer Technology
     </td>
   </tr>
 </table>
 
-### 贡献记录
+### Contributions
 
-![贪吃蛇穿过 hyyyyyyz 的 GitHub 贡献日历](https://raw.githubusercontent.com/hyyyyyyz/hyyyyyyz/output/github-contribution-grid-snake.svg)
+![A snake moving through my GitHub contribution calendar](https://raw.githubusercontent.com/hyyyyyyz/hyyyyyyz/output/github-contribution-grid-snake.svg)
 
 <details>
-  <summary>展开 3D 贡献日历</summary>
-  <p><img src="./assets/activity/calendar-dark.svg" width="100%" alt="深色主题的三维 GitHub 贡献日历"></p>
-  <a href="./assets/activity/calendar-light.svg">查看浅色日历</a>
+  <summary>Explore the 3D contribution calendar</summary>
+  <p><img src="./assets/activity/calendar-dark.svg" width="100%" alt="My GitHub contributions shown as a three-dimensional calendar in dark colors."></p>
+  <a href="./assets/activity/calendar-light.svg">Open the light version</a>
 </details>

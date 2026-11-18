@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="112" viewBox="0 0 240 112" role="img" aria-labelledby="title">
-  <title id="title">街头球场与篮球</title>
+  <title id="title">A basketball on an outdoor court</title>
   <style>
     @media (prefers-reduced-motion: no-preference) {
       .ball { animation: bounce 2.8s ease-in-out infinite; }

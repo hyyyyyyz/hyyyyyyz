@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="112" viewBox="0 0 240 112" role="img" aria-labelledby="title">
-  <title id="title">电竞显示器与对阵图</title>
+  <title id="title">An esports monitor showing a tournament bracket</title>
   <style>
     @media (prefers-reduced-motion: no-preference) {
       .ball { animation: bounce 2.8s ease-in-out infinite; }
