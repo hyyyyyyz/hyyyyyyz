@@ -1,34 +1,65 @@
-![](assets/Bottom_up.svg)
+<p>
+  <img src="./assets/studio.webp" width="100%" alt="Jason Huang 的像素工作室。夕阳照进窗户，桌上有机械臂和游戏手柄，桌下放着篮球。">
+</p>
 
-<!--   my-ticker -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B%2C+I+am+Jackson+Huang!;Welcome+to+My+Profile!;Major+in+Computer+Science+from+XJU!;Proficient+in+ROS2+RL+Isaac)](https://git.io/typing-svg)
+我叫 **Jason Huang**，学计算机，研究 **具身智能（Embodied AI）**。我感兴趣的是，机器人看到眼前的世界之后，怎样决定下一步该做什么。
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+### 我的兴趣卡带
 
-<!--   my-skils -->
+点卡面直达球赛、游戏或赛事官网，点下方的名字展开卡带。
 
-| Property                                        | Data                                                                                                                       |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.nba.com/schedule"><img width="240" src="./assets/cartridges/court.svg" alt="篮球卡带，打开 NBA 赛程"></a>
+      <details>
+        <summary><b>篮球与 NBA</b></summary>
+        <p>场上打球，场下看 NBA。</p>
+        <p><a href="https://www.nba.com/schedule">NBA 赛程</a></p>
+      </details>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.minecraft.net/zh-hans"><img width="240" src="./assets/cartridges/sandbox.svg" alt="沙盒卡带，打开 Minecraft 官网"></a>
+      <details>
+        <summary><b>沙盒游戏</b></summary>
+        <p>在《我的世界》搭方块，在《泰拉瑞亚》挖到地下。</p>
+        <p><a href="https://www.minecraft.net/zh-hans">Minecraft</a><br><a href="https://terraria.org/">Terraria</a></p>
+      </details>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://valorantesports.com/"><img width="240" src="./assets/cartridges/arena.svg" alt="电竞卡带，打开 VALORANT 电竞官网"></a>
+      <details>
+        <summary><b>电竞</b></summary>
+        <p>瓦罗兰特和 CS。</p>
+        <p><a href="https://valorantesports.com/">VALORANT 赛事</a><br><a href="https://www.hltv.org/matches">CS 比赛日程</a></p>
+      </details>
+    </td>
+  </tr>
+</table>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph
+### 教育经历
 
-<!--   green snake -->
-![Jackson Huang's github activity graph](https://raw.githubusercontent.com/hyyyyyyz/hyyyyyyz/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.xju.edu.cn/"><img src="./assets/education/urumqi.svg" width="380" alt="乌鲁木齐，访问新疆大学"></a><br>
+      <strong>新疆大学</strong><br>
+      本科 · 计算机科学与技术
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.hust.edu.cn/"><img src="./assets/education/wuhan.svg" width="380" alt="武汉，访问华中科技大学"></a><br>
+      <strong>华中科技大学</strong><br>
+      硕士 · 计算机技术
+    </td>
+  </tr>
+</table>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+### 贡献记录
 
-### Profile Views
+![贪吃蛇穿过 hyyyyyyz 的 GitHub 贡献日历](https://raw.githubusercontent.com/hyyyyyyz/hyyyyyyz/output/github-contribution-grid-snake.svg)
 
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@hyyyyyyz.github.readme)
-
-![](assets/Bottom_down.svg)
+<details>
+  <summary>展开 3D 贡献日历</summary>
+  <p><img src="./assets/activity/calendar-dark.svg" width="100%" alt="深色主题的三维 GitHub 贡献日历"></p>
+  <a href="./assets/activity/calendar-light.svg">查看浅色日历</a>
+</details>

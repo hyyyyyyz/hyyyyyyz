@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 60" width="380" height="60" role="img" aria-labelledby="title">
+  <title id="title">乌鲁木齐，落日下的山脊</title>
+  <rect width="380" height="60" rx="3" fill="#27243c"/>
+  <g fill="#ecaa88">
+    <circle cx="270" cy="23" r="13"/>
+    <path d="M224 13h4v1h-4zm95 7h3v1h-3zm19-11h2v1h-2z"/>
+  </g>
+  <path d="m151 60 41-24 12 5 29-22 14 13 12-5 23 15 24-22 18 11 23-18 33 25v22z" fill="#66546f"/>
+  <path d="m202 43 31-24 12 12-12-6-7 6-3-1zm92-9 12-14 12 7-12-2-6 7zm40-12 13-9 17 11-17-5z" fill="#c0a1ad"/>
+  <path d="m152 60 45-13 18 6 32-16 19 4 20-9 28 14 26-10 40 7v17z" fill="#45415c"/>
+  <text x="15" y="38" fill="#f2cfb5" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="2">URUMQI</text>
+</svg>

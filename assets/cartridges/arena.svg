@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="112" viewBox="0 0 240 112" role="img" aria-labelledby="title">
+  <title id="title">电竞显示器与对阵图</title>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .ball { animation: bounce 2.8s ease-in-out infinite; }
+      .spark { animation: glint 3.6s ease-in-out infinite; }
+    }
+    @keyframes bounce { 0%,100% { transform:translateY(0) } 50% { transform:translateY(12px) } }
+    @keyframes glint { 0%,100% { opacity:1 } 50% { opacity:.43 } }
+  </style>
+  <defs><clipPath id="label"><rect x="16" y="16" width="208" height="66" rx="2"/></clipPath></defs>
+  <path fill="#252439" d="M9 2h222l7 7v94l-7 7H9l-7-7V9z"/>
+  <path d="M9 3h222l6 6v94l-6 6H9l-6-6V9z" fill="none" stroke="#776b9c" stroke-width="2"/>
+  <rect x="12" y="12" width="216" height="74" rx="5" fill="#121725"/>
+  <g clip-path="url(#label)">
+    <rect x="16" y="16" width="208" height="66" fill="#b3a2e5"/>
+
+  <path fill="#b3a2e5" d="M106 18h112v64H106z"/>
+  <path fill="#9686cd" d="m139 18 25 0-48 64h-11zm52 0h10l-48 64h-10z"/>
+  <path fill="#685888" d="M164 65h16v8h12v4h-41v-4h13z"/>
+  <path fill="#463950" d="M140 28h62v39h-62v-4h-3V31h3z"/>
+  <path fill="#433f6f" d="M141 32h57v29h-57z"/>
+  <path fill="#686498" d="M145 36h49v21h-49z"/>
+  <g fill="none" stroke="#d9b9ee" stroke-width="2"><path d="M148 39h8v6h6m-14 6h8v-6m38-6h-8v6h-6m14 6h-8v-6"/></g>
+  <g class="spark" fill="#ffe3a2"><path d="M166 39h10v7h-2v3h-2v3h4v2h-10v-2h4v-3h-2v-3h-2z"/></g>
+  <path fill="#8a7da9" d="M141 62h56v2h-56z"/>
+  <path fill="#dec1ec" d="M139 73h14v3h-14zm-5 4h23v3h-23z"/>
+  <path fill="#645579" d="M194 74h8v2h3v3h-14v-3h3z"/>
+    <path fill="#7e6cac" opacity=".22" d="M16 66 90 16h18L16 78z"/>
+    <text x="24" y="59" fill="#262338" font-family="Verdana,DejaVu Sans,sans-serif" font-weight="bold" font-size="24" letter-spacing="-1.3">ARENA</text>
+  </g>
+  <path stroke="#515066" stroke-width="2" d="M17 93h45m-45 5h30m134-5h42m-29 5h29"/>
+  <path fill="#161625" d="M83 96h74v12H83z"/>
+  <path stroke="#b59573" stroke-width="3" stroke-dasharray="3 4" d="M88 102h64"/>
+  <g fill="#858093"><rect x="8" y="8" width="3" height="3"/><rect x="229" y="8" width="3" height="3"/></g>
+</svg>
