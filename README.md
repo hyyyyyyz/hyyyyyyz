@@ -56,7 +56,7 @@ Select a cover to visit its site. Open the label underneath to see what I play o
 
 ### Commit calendar
 
-[![A collaborative robot placing the latest chip on my commit calendar](https://raw.githubusercontent.com/hyyyyyyz/antikythera/refs/heads/main/gallery/assembly-log.svg)](https://github.com/hyyyyyyz/antikythera)
+[![A Franka Panda on a wheeled shuttle collecting and returning my commit tiles](https://raw.githubusercontent.com/hyyyyyyz/antikythera/main/gallery/assembly-log.svg?v=1.1.0)](https://github.com/hyyyyyyz/antikythera)
 
 <details>
   <summary>Explore the 3D contribution calendar</summary>
