@@ -56,7 +56,7 @@ Select a cover to visit its site. Open the label underneath to see what I play o
 
 ### Commit calendar
 
-[![First Light: a Franka Panda clears my commit calendar, the lunar antenna transmits, and a victory flag rises](https://raw.githubusercontent.com/hyyyyyyz/antikythera/refs/heads/main/gallery/assembly-log.svg?v=first-light-1.2)](https://github.com/hyyyyyyz/antikythera)
+[![A Franka Panda holds the red Gaia’s Vengeance Vandal on a fixed pedestal. A gold pennant rises after my last commit tile goes dark.](https://raw.githubusercontent.com/hyyyyyyz/antikythera/main/gallery/assembly-log.svg?v=gaia-1.3)](https://github.com/hyyyyyyz/antikythera)
 
 <details>
   <summary>Explore the 3D contribution calendar</summary>
