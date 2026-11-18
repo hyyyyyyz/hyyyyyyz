@@ -54,9 +54,9 @@ Select a cover to visit its site. Open the label underneath to see what I play o
   </tr>
 </table>
 
-### Contributions
+### Commit calendar
 
-![A snake moving through my GitHub contribution calendar](https://raw.githubusercontent.com/hyyyyyyz/hyyyyyyz/output/github-contribution-grid-snake.svg)
+[![Antikythera, a robotic arm placing a chip on my most recent day of public commits](https://raw.githubusercontent.com/hyyyyyyz/antikythera/main/gallery/assembly-log.svg)](https://github.com/hyyyyyyz/antikythera)
 
 <details>
   <summary>Explore the 3D contribution calendar</summary>

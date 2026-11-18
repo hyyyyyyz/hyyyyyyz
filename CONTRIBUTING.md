@@ -28,9 +28,9 @@ Open all three cartridges on a narrow screen to check that their text fits. For 
 
 ## Refreshing the calendars
 
-- **Contribution snake** uses Platane's action to generate the animation every 12 hours and publishes it to the existing image URL on the `output` branch. [Platane/snk](https://github.com/Platane/snk)
+- **Antikythera** renders the public commit calendar in its own repository. The profile embeds its published SVG directly. Edit the renderer or refresh the graphic upstream. [Antikythera](https://github.com/hyyyyyyz/antikythera)
 - **3D contribution calendar** runs daily. The workflow stages the two SVGs used by the profile. When they change, the GitHub Actions bot commits them to the default branch. These files also work in local previews. [3D calendar generator](https://github.com/yoshi389111/github-profile-3d-contrib)
-- Run either workflow manually from the Actions tab by selecting the default branch. Both use the repository's `GITHUB_TOKEN`. The snake workflow needs write access to `output`. The 3D calendar workflow needs write access to the default branch.
+- Run the 3D calendar workflow manually from the Actions tab on the default branch. It uses the repository’s `GITHUB_TOKEN` and needs write access to that branch.
 - **Check profile** runs the local check on pushes and pull requests. Workflow dependencies are pinned to commits. Dependabot checks for updates monthly.
 
 ## Credits and license
